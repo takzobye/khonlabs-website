@@ -39,6 +39,10 @@ export default function Home() {
               <p className="font-bold lg:font-normal">Suphachock Kamlek</p>
               <p>Back-End Developer</p>
             </Link>
+            <Link href="https://github.com/JozhoX" className="flex flex-col lg:flex-row justify-between hover:underline">
+              <p className="font-bold lg:font-normal">Sippakorn Dejchutrakul</p>
+              <p>Front-End Developer</p>
+            </Link>
           </div>
         </div>
       </div>
